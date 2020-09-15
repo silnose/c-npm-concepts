@@ -1,0 +1,30 @@
+{
+  "name": "random-dev-excuses",
+  "version": "1.0.0",
+  "description": "developers excuses",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Oscar Barajas <oscar@platzi.com>",
+  "license": "MIT",
+  "bin": {
+    "random-dev-excuses": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silnose/npm-concepts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silnose/npm-concepts/issues"
+  },
+  "homepage": "https://github.com/silnose/npm-concepts#readme"
+}
